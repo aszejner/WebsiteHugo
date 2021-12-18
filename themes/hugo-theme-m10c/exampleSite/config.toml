@@ -1,4 +1,4 @@
-baseURL = "hugo-bad-test1.netlify.app/"
+baseURL = "bad-hugo-site2.netlify.app/"
 title = "Your title"
 themesDir = "../.."
 theme = "m10c"
